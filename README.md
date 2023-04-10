@@ -1,5 +1,7 @@
 # actions-subscribe-to-issues-prs
 
+model: gpt-4
+
 ## Prompt 1
 
 GHA workflow to on a schedule subscribe to issues and pull request in a repository containing word "OADP" or "backup"
